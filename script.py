@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Feb  3 22:22:04 2020
-
-@author: Chinmay
-"""
 
 from flask import Flask, render_template, request, redirect
 import numpy as np
